@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.aic{
+	align-items: center;
+}
+form#omikuji_infos{
+	width: 300px;
+}
+
+.infos{
+	display: flex;
+	flex-direction: column;
+}

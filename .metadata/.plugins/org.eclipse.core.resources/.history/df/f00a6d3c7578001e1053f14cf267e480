@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.aic{
+	align-items: center;
+}
+.omikuji{
+	width: 30%;
+	
+}
+.jcc{
+	justify-content: center;
+}
+
+.infos{
+	display: flex;
+	flex-direction: column;
+}

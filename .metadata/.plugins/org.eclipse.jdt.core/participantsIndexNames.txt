@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\TERRA_F\MES FORMATIONS1 TRIER\CERTIFICATION CODING DOJO\CodingDojo\java\java_Spring\Omikuji_Form\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272385074.index
+\omikuji\src\main\java

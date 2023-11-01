@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OmikujiApplication<omikuji>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dojo.omikujiform.OmikujiApplication",
+            "projectName": "omikuji",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
